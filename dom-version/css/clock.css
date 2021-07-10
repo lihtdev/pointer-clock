@@ -1,0 +1,25 @@
+.clock {
+	position: absolute;
+	background: url('../images/clock.png') no-repeat;
+	width: 180px;
+	height: 180px;
+	padding: 0;
+}
+
+.clock .hour {
+	position: absolute;
+	width: 5px;
+	height: 76px;
+}
+
+.clock .minute {
+	position: absolute;
+	width: 5px;
+	height: 116px;
+}
+
+.clock .second {
+	position: absolute;
+	width: 3px;
+	height: 116px;
+}
